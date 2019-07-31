@@ -194,8 +194,6 @@ Also, You can't see the mimeType part in the constructed URL but it still send a
 
 # Additional Resources
 
-https://developer.android.com/studio/write/app-link-indexing
-
 https://developer.android.com/guide/topics/manifest/data-element.html
 
 
